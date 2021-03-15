@@ -1,0 +1,11 @@
+{
+  "protocols": [
+  "5.1"
+  ],
+  "os": "darwin",
+  "arch": "amd64",
+  "filename": "terraform-provider-dummy_1.2.4_darwin_amd64.zip",
+  "download_url": "https://raw.githubusercontent.com/k0da/k0da.github.io/gh-pages/download/terraform-provider-dummy_1.2.4_darwin_amd64.zip",
+  "shasums_url": "https://raw.githubusercontent.com/k0da/k0da.github.io/gh-pages/download/terraform-provider-dummy_1.2.4_SHA256SUMS",
+  "shasum": "9bb64adbb21d47de94463db8a43470c5717c0de8496c4c60c26c2df8a853dd25"
+}
