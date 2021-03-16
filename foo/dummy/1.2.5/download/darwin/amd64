@@ -7,5 +7,5 @@
   "filename": "terraform-provider-dummy_1.2.5_darwin_amd64.zip",
   "download_url": "https://media.githubusercontent.com/media/k0da/k0da.github.io/gh-pages/download/terraform-provider-dummy_1.2.5_darwin_amd64.zip",
   "shasums_url": "https://media.githubusercontent.com/media/k0da/k0da.github.io/gh-pages/download/terraform-provider-dummy_1.2.5_SHA256SUMS",
-  "shasum": "19e055c6002a4407cb8fec32936e74f8a962bfa311ae5ac4acde2c02bb215ef7"
+  "shasum": "5173b7d1c13301e99040799ceeb49bb5afc138c4aef1a3ad30244a0ccf8ca8f6"
 }
